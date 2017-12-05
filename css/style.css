@@ -1,0 +1,55 @@
+
+body{
+  width:100%;
+  height:100%;
+   background-color:#ff9966;
+}
+
+h5{
+  font-weight: bold,italic;
+  font-family:Times New Roman;
+  font-size:3em;
+  text-align:center;
+}
+
+button{
+  padding:10px;
+  margin:100px;
+  background-color:#4d1b00;
+}
+
+#search_box{
+ align:center;
+  width:70%;
+  margin-top:70px;
+  margin-bottom:10px;
+  margin-left:30%;
+  margin-right:30%;
+  padding:20px;
+ 
+ 
+}
+#search_btn{
+ 
+  display:block;
+  float:center;
+  margin-right:90%;
+}
+#random{
+ 
+  float:center;
+  display:block;
+  margin-left:90%;
+}
+#close{
+  float:left;
+  position:absolute;  right:0;
+}
+
+#data{
+    width: auto;;
+    word-wrap: break-word;
+}
+
+
+  
